@@ -1,8 +1,0 @@
-## ignore dir
-/node_modules
-
-## ignore file
-
-
-## ignore ext
-*.log
